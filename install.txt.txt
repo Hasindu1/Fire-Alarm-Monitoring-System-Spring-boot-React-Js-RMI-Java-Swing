@@ -1,1 +1,18 @@
+Steps:
+1)Download and extract the zip file 
 ***Steps to follow for the rest-services-provider project***
+
+>This project contains the rest-services-provider(Rest API) and the web client application.
+>Open project using an IDE(Tested with Intelij IDE) then resolve the dependencies of spring boot and react js applications suing the maven and npm.
+>After resolving the dependenicies , first run the RestServicesProviderApplication(Spring boot project) class then the REST API will be started.
+>Then go to the  directory src->webapp->front-end ,open a terminal and tyoe npm start command then the web client will start in the port 3000.
+***Steps to follow for DS_Project(RMI server-desktop client)  project***
+
+>Open the DS_Project in a IDE ,after that add jaxrs-ri and jersey-media-moxy all jar files as external jar files to the project.
+>Then go to the root directory of the project through a command line and start the rmi registry by typing the command of start rmiregistry on the commandLine.
+>After that move to com.dsassignement.server package and run the RmiServer class to start the RMI Server.
+>Then to start the desktop client move to com.dsassignment.client package and run the splash class.
+
+***Steps to follow for fire-alarm-sensor  project***
+>Open the fire-alarm-sensor project using an IDE and resolve the maven dependencies please import the project as a maven project to the IDE.
+>Run the SensorHandling class inside com.programmingfoundation.fire_alarm_sensor.controller package to start the application.
