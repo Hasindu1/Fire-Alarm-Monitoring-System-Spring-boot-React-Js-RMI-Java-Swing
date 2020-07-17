@@ -11,13 +11,10 @@
 
 
 
-## Frameworks 
+## Frameworks and Libs
 ![Spring](https://img.shields.io/badge/Framework-Spring-blue) 
 ![Hibernate](https://img.shields.io/badge/Framework-Hibernate-blue) 
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-blue) 
-
-
-## Libs
 ![ReactJs](https://img.shields.io/badge/Library-ReactJs-blue) 
 ![Axios](https://img.shields.io/badge/Library-Axios-blue) 
 ![JavaMailAPI](https://img.shields.io/badge/Library-JavaMailAPI-blue) 
