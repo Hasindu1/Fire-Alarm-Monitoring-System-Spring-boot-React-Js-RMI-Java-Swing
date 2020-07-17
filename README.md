@@ -3,6 +3,35 @@
 ![You tube](https://img.shields.io/youtube/views/UGPxCWuqXt4?style=social)
 ![Repo Size](https://img.shields.io/github/repo-size/Hasindu1/Fire-Alarm-Monitoring-System-Spring-boot-React-Js-RMI-Java-Swing) 
 
+## Languages , frameworks , libs , APIs and technologies
+![Java](https://img.shields.io/badge/Language-Java-red) 
+![javaScript](https://img.shields.io/badge/Language-javaScript-red) 
+![HTML5](https://img.shields.io/badge/Language-HTML5-red) 
+![CSS](https://img.shields.io/badge/Language-CSS-red) 
+![Spring](https://img.shields.io/badge/Framework-Spring-blue) 
+![Hibernate](https://img.shields.io/badge/Framework-Hibernate-blue) 
+![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-blue) 
+![ReactJs](https://img.shields.io/badge/Library-ReactJs-blue) 
+![Axios](https://img.shields.io/badge/Library-Axios-blue) 
+![JavaMailAPI](https://img.shields.io/badge/Library-JavaMailAPI-blue) 
+![SpringBoot](https://img.shields.io/badge/Technology-SpringBoot-green) 
+![JavaSwing](https://img.shields.io/badge/Technology-JavaSwing-green) 
+![JavaRMI](https://img.shields.io/badge/Technology-JavaRMI-green) 
+![JavaMultiThreading](https://img.shields.io/badge/Technology-JavaMultiThreading-green) 
+![JAXRSClient](https://img.shields.io/badge/Technology-JAXRSClient-green) 
+![API](https://img.shields.io/badge/Technology-TwilloSMSAPI-green) 
+
+## Tools ,Databases and servers
+![Intelij](https://img.shields.io/badge/Technology-Intelij-black) 
+![NetBeans](https://img.shields.io/badge/Technology-NetBenas-black) 
+![Eclipse](https://img.shields.io/badge/Technology-Eclipse-black) 
+![Postman](https://img.shields.io/badge/Technology-Postman-black) 
+![MySQLWoekbench](https://img.shields.io/badge/Database-MySQLWorkbench-yellowgreen) 
+![ApacheTomcat9](https://img.shields.io/badge/Database-ApacheTomcat9-brightgreen) 
+
+
+
+
 ## Introduction
 
 This system was developed to help the administration of the fire alarm system to easily handle and monitor fire alarm sensor details such as adding a new sensor to the system update or delete an existing sensor and to display or send all sensor details with respective alerts to end users who are registered in the system for a given time. (if there is a fire detected by sensor alert will be send as an email and a SMS ,Web application users will get updated sensor details for every 40 seconds ,desktop users will receive the updated data for every 30 seconds and all kind of users get updated alerts for every 15 seconds) .So to cater these functionalities ,this system contains with 5 different applications , one REST API one web application one RMI server one desktop client who is using the services of RMI Server and a Sensor Application who provide sensor details by working as multiple sensors(This application consists different threads for every single sensor in the system .These threads work as sensors in runtime to produce sensor details for every 10 seconds ).
