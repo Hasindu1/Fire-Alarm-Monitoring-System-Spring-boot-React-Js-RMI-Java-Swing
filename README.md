@@ -21,21 +21,21 @@
 
 
 ## Technologies and APIs
-![SpringBoot](https://img.shields.io/badge/Technology-SpringBoot-green) 
-![JavaSwing](https://img.shields.io/badge/Technology-JavaSwing-green) 
-![JavaRMI](https://img.shields.io/badge/Technology-JavaRMI-green) 
-![JavaMultiThreading](https://img.shields.io/badge/Technology-JavaMultiThreading-green) 
-![JAXRSClient](https://img.shields.io/badge/Technology-JAXRSClient-green) 
-![API](https://img.shields.io/badge/Technology-TwilloSMSAPI-green) 
+![SpringBoot](https://img.shields.io/badge/Technology-SpringBoot-blue) 
+![JavaSwing](https://img.shields.io/badge/Technology-JavaSwing-blue) 
+![JavaRMI](https://img.shields.io/badge/Technology-JavaRMI-blue) 
+![JavaMultiThreading](https://img.shields.io/badge/Technology-JavaMultiThreading-blue) 
+![JAXRSClient](https://img.shields.io/badge/Technology-JAXRSClient-blue) 
+![API](https://img.shields.io/badge/Technology-TwilloSMSAPI-blue) 
 
 
 ## Tools ,Databases and servers
-![Intelij](https://img.shields.io/badge/Technology-Intelij-black) 
-![NetBeans](https://img.shields.io/badge/Technology-NetBenas-black) 
-![Eclipse](https://img.shields.io/badge/Technology-Eclipse-black) 
-![Postman](https://img.shields.io/badge/Technology-Postman-black) 
-![MySQLWoekbench](https://img.shields.io/badge/Database-MySQLWorkbench-yellowgreen) 
-![ApacheTomcat9](https://img.shields.io/badge/Database-ApacheTomcat9-brightgreen) 
+![Intelij](https://img.shields.io/badge/Technology-Intelij-blue) 
+![NetBeans](https://img.shields.io/badge/Technology-NetBenas-blue) 
+![Eclipse](https://img.shields.io/badge/Technology-Eclipse-blue) 
+![Postman](https://img.shields.io/badge/Technology-Postman-blue) 
+![MySQLWoekbench](https://img.shields.io/badge/Database-MySQLWorkbench-blue) 
+![ApacheTomcat9](https://img.shields.io/badge/Database-ApacheTomcat9-blue) 
 
 
 
