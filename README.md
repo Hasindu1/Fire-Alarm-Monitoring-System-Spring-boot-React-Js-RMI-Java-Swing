@@ -3,23 +3,34 @@
 ![You tube](https://img.shields.io/youtube/views/UGPxCWuqXt4?style=social)
 ![Repo Size](https://img.shields.io/github/repo-size/Hasindu1/Fire-Alarm-Monitoring-System-Spring-boot-React-Js-RMI-Java-Swing) 
 
-## Languages , frameworks , libs , APIs and technologies
+## Languages 
 ![Java](https://img.shields.io/badge/Language-Java-red) 
 ![javaScript](https://img.shields.io/badge/Language-javaScript-red) 
 ![HTML5](https://img.shields.io/badge/Language-HTML5-red) 
 ![CSS](https://img.shields.io/badge/Language-CSS-red) 
+
+
+
+## Frameworks 
 ![Spring](https://img.shields.io/badge/Framework-Spring-blue) 
 ![Hibernate](https://img.shields.io/badge/Framework-Hibernate-blue) 
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-blue) 
+
+
+## Libs
 ![ReactJs](https://img.shields.io/badge/Library-ReactJs-blue) 
 ![Axios](https://img.shields.io/badge/Library-Axios-blue) 
 ![JavaMailAPI](https://img.shields.io/badge/Library-JavaMailAPI-blue) 
+
+
+## Technologies and APIs
 ![SpringBoot](https://img.shields.io/badge/Technology-SpringBoot-green) 
 ![JavaSwing](https://img.shields.io/badge/Technology-JavaSwing-green) 
 ![JavaRMI](https://img.shields.io/badge/Technology-JavaRMI-green) 
 ![JavaMultiThreading](https://img.shields.io/badge/Technology-JavaMultiThreading-green) 
 ![JAXRSClient](https://img.shields.io/badge/Technology-JAXRSClient-green) 
 ![API](https://img.shields.io/badge/Technology-TwilloSMSAPI-green) 
+
 
 ## Tools ,Databases and servers
 ![Intelij](https://img.shields.io/badge/Technology-Intelij-black) 
@@ -28,7 +39,6 @@
 ![Postman](https://img.shields.io/badge/Technology-Postman-black) 
 ![MySQLWoekbench](https://img.shields.io/badge/Database-MySQLWorkbench-yellowgreen) 
 ![ApacheTomcat9](https://img.shields.io/badge/Database-ApacheTomcat9-brightgreen) 
-
 
 
 
