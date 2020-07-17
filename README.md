@@ -74,12 +74,14 @@ This system was developed to help the administration of the fire alarm system to
  
  ## 👨🏼‍💻 Contributors
  
- ### System desiginig and coding 
+ ### System designing and writting the complete source code(implementation)
 * Hasindu Dahanayake(My self)
+
+
  
  ### Final report documentation work
  
- * My self and Other three members
+ * My self and other three members
    
 
 
@@ -90,6 +92,7 @@ If you liked the repo then please support it by giving it a star ⭐!
  
  ## License
 [![MIT](https://img.shields.io/cocoapods/l/AFNetworking.svg?style=style&label=License&maxAge=2592000)](../master/LICENSE)
+
 
 Copyright (c) 2020-present,Hasindu Dahanayake
 
