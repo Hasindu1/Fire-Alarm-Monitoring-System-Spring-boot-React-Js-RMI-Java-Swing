@@ -51,6 +51,14 @@ This system was developed to help the administration of the fire alarm system to
   <img src="../master/ui-images/overview.jpg"/>
  </p>
  
+## More Info
+ 
+ ### Watch on my you tube 
+ 
+ ![You tube](https://img.shields.io/youtube/views/UGPxCWuqXt4?style=social)
+ 
+ [![Fire Alarm Monitoring System Using Rest API(Spring boot)|React Js|Java RMI|Java Swing|Core Java](../master/ui-images/youtube.PNG)](https://youtu.be/UGPxCWuqXt4 "Fire Alarm Monitoring System Using Rest API(Spring boot)|React Js|Java RMI|Java Swing|Core Java")
+ 
  ## Some interface of the system
  
  <p align="middle">
@@ -102,14 +110,7 @@ This system was developed to help the administration of the fire alarm system to
  *  Open the fire-alarm-sensor project using an IDE and resolve the maven dependencies please import the project as a maven project to the IDE.
  *  Run the SensorHandling class inside com.programmingfoundation.fire_alarm_sensor.controller package to start the application.
  
- ## More Info
- 
- ### Watch on my you tube 
- 
- ![You tube](https://img.shields.io/youtube/views/UGPxCWuqXt4?style=social)
- 
- [![Fire Alarm Monitoring System Using Rest API(Spring boot)|React Js|Java RMI|Java Swing|Core Java](../master/ui-images/youtube.PNG)](https://youtu.be/UGPxCWuqXt4 "Fire Alarm Monitoring System Using Rest API(Spring boot)|React Js|Java RMI|Java Swing|Core Java")
- 
+
  ## 👨🏼‍💻 Contributors
  
  ### System designing and writting the complete source code(implementation)
