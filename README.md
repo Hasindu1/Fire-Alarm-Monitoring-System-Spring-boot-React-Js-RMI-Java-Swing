@@ -1,7 +1,7 @@
 # Fire-Alarm-Monitoring-System
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) ]
-[![You tube](https://img.shields.io/youtube/views/UGPxCWuqXt4?style=social)]
-[![Repo Size](https://img.shields.io/github/repo-size/Hasindu1/Fire-Alarm-Monitoring-System-Spring-boot-React-Js-RMI-Java-Swing) ]
+![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) 
+![You tube](https://img.shields.io/youtube/views/UGPxCWuqXt4?style=social)
+![Repo Size](https://img.shields.io/github/repo-size/Hasindu1/Fire-Alarm-Monitoring-System-Spring-boot-React-Js-RMI-Java-Swing) 
 
 ## Introduction
 
@@ -10,7 +10,7 @@ This system was developed to help the administration of the fire alarm system to
 ## Overview Diagram
 
 <p align="middle">
-  <img src="../master/ui-images/overview.PNG"/>
+  <img src="../master/ui-images/overview.JPG"/>
  </p>
  
  ## Some interface of the system
@@ -68,16 +68,16 @@ This system was developed to help the administration of the fire alarm system to
  
  ### Watch on my you tube 
  
- [![You tube](https://img.shields.io/youtube/views/UGPxCWuqXt4?style=social)]
+ ![You tube](https://img.shields.io/youtube/views/UGPxCWuqXt4?style=social)
  
- [![Fire Alarm Monitoring System Using Rest API(Spring boot)|React Js|Java RMI|Java Swing|Core Java](../master/ui-images/youtube)](https://youtu.be/UGPxCWuqXt4 "Fire Alarm Monitoring System Using Rest API(Spring boot)|React Js|Java RMI|Java Swing|Core Java")
+ [![Fire Alarm Monitoring System Using Rest API(Spring boot)|React Js|Java RMI|Java Swing|Core Java](../master/ui-images/youtube.PNG)](https://youtu.be/UGPxCWuqXt4 "Fire Alarm Monitoring System Using Rest API(Spring boot)|React Js|Java RMI|Java Swing|Core Java")
  
  ## 👨🏼‍💻 Contributors
  
  ### System desiginig and coding 
 * Hasindu Dahanayake(My self)
  
- ###Final report documentation work
+ ### Final report documentation work
  
  * My self and Other three members
    
