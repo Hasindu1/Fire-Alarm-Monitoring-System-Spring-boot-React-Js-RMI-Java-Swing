@@ -10,7 +10,7 @@ This system was developed to help the administration of the fire alarm system to
 ## Overview Diagram
 
 <p align="middle">
-  <img src="../master/ui-images/overview.JPG"/>
+  <img src="../master/ui-images/overview.jpg"/>
  </p>
  
  ## Some interface of the system
