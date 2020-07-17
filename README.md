@@ -3,7 +3,9 @@
 ![You tube](https://img.shields.io/youtube/views/UGPxCWuqXt4?style=social)
 ![Repo Size](https://img.shields.io/github/repo-size/Hasindu1/Fire-Alarm-Monitoring-System-Spring-boot-React-Js-RMI-Java-Swing) 
 
-## Languages 
+## Technology stack
+
+### Languages 
 ![Java](https://img.shields.io/badge/Language-Java-red) 
 ![javaScript](https://img.shields.io/badge/Language-javaScript-red) 
 ![HTML5](https://img.shields.io/badge/Language-HTML5-red) 
@@ -11,7 +13,7 @@
 
 
 
-## Frameworks and Libs
+### Frameworks and Libs
 ![Spring](https://img.shields.io/badge/Framework-Spring-blue) 
 ![Hibernate](https://img.shields.io/badge/Framework-Hibernate-blue) 
 ![Bootstrap](https://img.shields.io/badge/Framework-Bootstrap-blue) 
@@ -20,7 +22,7 @@
 ![JavaMailAPI](https://img.shields.io/badge/Library-JavaMailAPI-blue) 
 
 
-## Technologies and APIs
+### Technologies and APIs
 ![SpringBoot](https://img.shields.io/badge/Technology-SpringBoot-blue) 
 ![JavaSwing](https://img.shields.io/badge/Technology-JavaSwing-blue) 
 ![JavaRMI](https://img.shields.io/badge/Technology-JavaRMI-blue) 
@@ -29,7 +31,7 @@
 ![API](https://img.shields.io/badge/Technology-TwilloSMSAPI-blue) 
 
 
-## Tools ,Databases and servers
+### Tools ,Databases and servers
 ![Intelij](https://img.shields.io/badge/Technology-Intelij-blue) 
 ![NetBeans](https://img.shields.io/badge/Technology-NetBenas-blue) 
 ![Eclipse](https://img.shields.io/badge/Technology-Eclipse-blue) 
