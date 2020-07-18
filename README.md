@@ -113,7 +113,7 @@ This system was developed to help the administration of the fire alarm system to
 
  ## 👨🏼‍💻 Contributors
  
- ### System designing and writting the complete source code(implementation)
+ ### System designing and complete source code written by
 * Hasindu Dahanayake(My self)
 
 
