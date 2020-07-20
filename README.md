@@ -1,4 +1,4 @@
-# Fire-Alarm-Monitoring-System
+# :fire: Fire-Alarm-Monitoring-System
 ![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103) 
 ![You tube](https://img.shields.io/youtube/views/UGPxCWuqXt4?style=social)
 ![Repo Size](https://img.shields.io/github/repo-size/Hasindu1/Fire-Alarm-Monitoring-System-Spring-boot-React-Js-RMI-Java-Swing) 
