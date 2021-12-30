@@ -20,4 +20,4 @@ Steps:
 >Open the fire-alarm-sensor project using an IDE and resolve the maven dependencies please import the project as a maven project to the IDE.
 >Run the SensorHandling class inside com.programmingfoundation.fire_alarm_sensor.controller package to start the application.
 
-*****For more inforamtion watch my you tube video : https://youtu.be/UGPxCWuqXt4 *****
+
