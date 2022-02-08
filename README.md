@@ -9,12 +9,7 @@
 ![javaScript](https://img.shields.io/badge/Language-javaScript-red) 
 ![HTML5](https://img.shields.io/badge/Language-HTML5-red) 
 ![CSS](https://img.shields.io/badge/Language-CSS-red) 
-
-### Watch on my you tube 
- [![You tube](https://img.shields.io/youtube/views/UGPxCWuqXt4?style=social)](https://youtu.be/UGPxCWuqXt4 "Fire Alarm Monitoring System Using Rest API(Spring boot)|React Js|Java RMI|Java Swing|Core Java")
- [![Fire Alarm Monitoring System Using Rest API(Spring boot)|React Js|Java RMI|Java Swing|Core Java](../master/ui-images/youtube.PNG)](https://youtu.be/UGPxCWuqXt4 "Fire Alarm Monitoring System Using Rest API(Spring boot)|React Js|Java RMI|Java Swing|Core Java")
  
-
 ### Frameworks and Libs
 ![Spring](https://img.shields.io/badge/Framework-Spring-blue) 
 ![Hibernate](https://img.shields.io/badge/Framework-Hibernate-blue) 
